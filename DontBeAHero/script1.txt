@@ -1,0 +1,457 @@
+[◇ Marks changes' explanation. ♧ Marks doubts/need for clarification with no change made.]
+
+*Fade in from white to the skies with the plane*
+
+~ Rose Guns Days - Time Remained ~
+
+(The Soaring Siren. A luxury plane used by billionaires all over the world.)
+
+(Today, its honoured guests are the Baggins family. No, not the Tollkein one...)
+
+(A small, but powerful and wealthy clan, that hit it big with arms trafficking towards the end of the 20th century.)
+
+(Nowadays, they are mainly present in more mundane industries and the world of banking.)
+
+*Switch to the inside of the plane. Monty Baggins is conversing with his sister Goldeen. For each of the following lines, the screen shows a different pair, such as Camilla and Bentley intent on using their devices.*
+
+(But despite the relative peace they have achieved for themselves...)
+
+(An abyssal, dark stain still looms over their family.)
+◇ Fixed the misunderstanding with abysmal
+
+(A secret maintained for years and years... will finally explode like a bomb.)
+
+(A secret they likely believed inconsequential.)
+
+(But now... I... myself, a member of this damned family... will enact my *vengeance*.)
+
+*Instant fade to black*
+
+~ (Music for main menu TBD) ~
+
+*Main Menu*
+
+*Once Start is pressed, switch to plane waiting area*
+
+~ Rose Guns Days - Roulette ~
+
+Monty: "I am afraid that is non-negotiable, dear!"
+
+Monty: “I can’t hold it much longer!”
+
+*Lilian appears very disappointed.*
+
+Lilian: "..."
+
+Monty: "I know the plane has a bathroom, but I'd rather avoid..."
+
+Lilian: "Fine. Just go."
+
+Monty: "Ah, t-thank you, dear. Nature calls!"
+◇ "Nature calls" is more natural tbh.
+
+*Monty fades out*
+
+*Fliss makes her appearance.*
+
+Fliss: "Monty is always like this, eh?"
+
+Lilian: "I don't think he'll ever learn, no matter how many times I tell him. It's such a basic request, to go to the bathroom BEFORE the trip..."
+
+Fliss: "Some men just don't listen."
+
+Lilian: "Oh well, I didn't marry him for his bladder. But thankfully, we'll have plenty of alone time this voyage around."
+◇ There was something that bothered me about the original line and now I understand what. Marrying for money implies a sugar-to-money exchange of sorts, but if it's a beard, then the marriage stands on roughly equal ground for mutual interest in the masquerade.
+
+Fliss: "Oh, we will?"
+
+Lilian: "Yes. Monty will be busy haranguing Norman over business, and Goldeen will have to watch over the kids... it'll just be the two of us."
+
+Fliss: "This isn't my first time in Mudide, the Gem of Zheng Fa... I have a lot of places I want to show you. Markets, ornate gardens and restaurants with stunning views and equally good food. But of course, the most precious thing will be the experience with you."
+• Mùdì de is Chinese for "destination".
+♧ Lowkey I think the original thing Fliss says at the end is better because it reveals the nature of relationship more explicitly to Lorelei watching. It's your call.
+♧ Should we write it as Mùdìde with the accents to make it clearer it's foreign? It will probably come up very rarely.
+
+(Figures.)
+
+(Monty Baggins is even more pathetic of a man than I imagined.)
+
+(He brought this woman with him on this trip, oblivious that she's his wife's lover.)
+
+(I'm ashamed just to be related to him.)
+◇ Re-added emphasis without repeating "even" as before.
+
+*Speak of the devil, Monty reappears.*
+
+Monty: "Ahem, ahem, pardon me. I’m not interrupting anything, am I?"
+
+Lilian: "No, no. Not at all. But that was quick, did you remember to wash your hands?”
+
+Monty: “Yes of course, dear, but you know me, I strive for peak efficiency in all my actions. Time is money, as they say.”
+
+Lilian: …
+
+Fliss: …
+
+Monty: "Neither of you are any fun... it's a real shame Gale couldn't come along. I was looking forward to some business talk with him..."
+
+Lilian: "Hohoho. Afraid all you'll have for business talk is Norman this time..."
+
+Monty: "Hmph. I'm sure I'll enjoy myself in Zheng Fa all the same..."
+
+Fliss: "I’m sure you’ll find it to your taste. (Even if it is an acquired one…)"
+
+Monty: "Well that gives me something to look forward to, at least."
+
+Monty: "Oh, there she is!..."
+
+*Camilla makes her appearance.*
+
+Lilian: "My how you've grown!"
+
+Camilla: "..."
+
+Monty: "Camilla?"
+
+Camilla: "Uncle Monty, Aunt Lilian. Hello."
+◇ Putting the greeting at the end makes it feel even more disinterested I feel. 
+
+*Lilian gets a little severe.*
+
+Lilian: "Uhm... where are the others?"
+
+Camilla: "I took the bus."
+
+Lilian: “You do know that is commoners’ travel right?! Y-you could’ve caught some sort of disease! I’ve heard they never clean those bus seats!”
+
+Camilla: "Better that than to stay in a car with my parents for two hours."
+
+Lilian: "...Make sure you take a good bath before any hugs or kisses, okay?..."
+
+Camilla: "Fine by me."
+
+Monty: "Hah hah! Looks like that caustic tongue is disliked even by her daughter..."
+
+*Goldeen appears. Ah shit.*
+
+Goldeen: "And whose caustic tongue are we talking about?..."
+
+◇ *Should probably add a bit of a pause here*
+
+Monty: "M-Mine. I made a bad impression on Camilla. Pardon me."
+
+Goldeen: "Hm, I can’t say I’m surprised. Anyway, forgive her for arriving earlier like this. She's in her rebellious phase."
+
+Monty: "Better to be studious and rebellious than an obedient slacker, though. Isn't that right, Camilla? I heard you made it through Themis and into Halvard!"
+
+Camilla: "Yep…”
+
+Monty: "Remember now, Uncle Monty's your top-priority client in the future! Hah hah!"
+
+Fliss: "Psh... I think she'd like to defend people who are actually innocent..."
+
+Monty: "Oh, come on... my business is perfectly legitimate… Except for the things everyone else does!”
+
+Camilla: "I’ll be sure to remember that, Uncle…"
+♧ Is she supposed to be smirking or smth?
+
+Monty: “Ahhhhh! No, wait-”
+♧ By the same token, is he supposed to be actually surprised or joking as well?
+
+Lilian: "Ah, Monty, you and your jokes..."
+
+*Theo Battler, the Butler, makes his appearance.*
+
+Butler: "It is inadvisable to make assertions such as these, even as a joke, sir. With the common-place of electronic devices nowadays, you don’t know who might be listening.”
+◇ Fixed minor typo.
+
+Monty: "Yes, yes, Theo! Thank you. I'll keep it in mind…"
+
+Goldeen: "You should make a habit of keeping people like Theo around to keep you in check. You're as exposed as ever."
+◇ The focus wasn't intended to be so much on Theo being a butler as on his savvy about information privacy. Or maybe I am missing something you intended.
+
+Monty: "Where’s the room for enjoyment in life if you’re worried about being surveilled all the time... like that one time you refused to go karaoke because for privacy. You need to ease up!"
+◇ Fixed a typo and tried to make the phrase flow a little more natural, hopefully the meaning is the same you intended.
+
+Goldeen: "And that’s why you’re just an above-average banker and I’m the top estate agent at my company. You'll never get to my level being careless like that."
+♧ This needs some change maybe but I don't feel confident changing it myself. The thing is, in my older version of the script, the focus was in that bankers are presumably higher-level than real estate agents, but Goldeen considers herself superior anyway.
+
+Monty: "Pfft! I hate to say it, Goldeen, but I’ve missed this quality brother and sister bickering."
+
+*Bentley makes his appearance.*
+
+Lilian: “Oh who do we have here? That handsome boy can’t be young master Bentley, can it?”
+
+Bentley: “Blehhhhhh!"
+
+Lilian: "Oh, dear. Not even a hello? Haven’t you missed your dear old auntie? I’ve certainly missed you. "
+
+Bentley: "................hi……………" *maybe some general video game sfx plays here.”
+
+*Bentley is playing a game."
+
+Lilian: "..."
+
+*Lilian is very disappointed.*
+
+Lilian: "Your children are very antisocial, Goldeen. Haven't you been educating them?"
+
+Camilla: "..."
+
+Goldeen: "I wouldn’t expect you to know what being a mother is like, Lilian."
+
+Goldeen: “One might think you two are infertile since you haven’t yet conceived an heir. Or perhaps the marriage is going through a rocky period?”
+♧ I have absolutely no idea what Goldeen is up to here... does she know what their marriage is really like? Is she being homophobic or something to them...
+
+*Death stare between the two women.*
+
+Monty: "Now now, we don't want to have one of us killed before we even board the plane, Hah hah!"
+
+*Norman makes his appearance.*
+
+Monty: "Ah, and Norman! How's business been?"
+
+Norman: "... ... ..."
+
+Goldeen: "NORMAAAAN!!"
+
+Norman: "Hngh... O-Oh. Yes, dear?"
+
+Goldeen: "Monty here asked you a question."
+
+Norman: "Hn... ah, yes. Yes, yes, all is going well. Goldeen manages most of everything... We’re thinking I’d like to start some new business..."
+
+Monty: "Well, do I have the right investments for you!..."
+
+(The men's duo fades out.)
+
+Fliss: "And there they go again..."
+
+Lilian: "Into one ear..."
+
+Goldeen: "And out of the other."
+
+*Plane announcement goes off*
+
+Captain: "Attention all passengers, if you will, please make your way to your seats. We will board for Mudide quite soon. Thank you for travelling on the Soaring Siren."
+
+*Fade to black, move to the aeroplane entrance.*
+
+Goldeen: "So this is a recent model, right? With all kinds or luxuries..."
+
+Lilian: "That's right. We tried it quite a few times before. It's by far the most consistent flight we’ve had in terms of quality, so we just had to pick this one for this family reunion."
+
+Goldeen: "Very nice indeed. But there is one thing I find peculiar. Why is called the Soaring Siren? Since when do sirens soar?..."
+♧ Is Goldeen supposed to speak eloquently or bluntly? In this case, she's more eloquent, in other lines more blunt. Hopefully we can make it more consistent.
+
+Fliss: "I assumed it's a more classical point of reference. Modernly, sirens are depicted as half-fish... But originally, in Greek mythology, they were birds with the heads of women."
+◇ Added a little , to make it flow maybe a little better.
+
+Goldeen: “Hm, I see. Academics need to get with the times... but smart little assistant you have there, Lilian, I understand why you keep her around.”
+◇ Thought Goldeen's line disapproving the Soaring Siren's name worked to depict her as a super modern businesswoman type.
+
+Lilian: “Of course.”
+
+*Goldeen fades out.*
+
+Fliss: "The real deal of Goldeen Baggins transcends the myth."
+
+Lilian: "Did you expect anything less from Monty's sister?"
+◇ Made it a little more concise.
+
+*Lilian and Fliss fade out. Every member of the Baggins family is shown fading in and out as to show them entering. The butler, then Danny and Riley fade in and out. The screen finally fades to black, representing Lorelei entering.*
+
+~ Rose Guns Days - Time Remained ~
+
+*Black screen*
+
+(The Baggins… they don’t even try make an effort to pretend that they are a happy family.)
+
+(It’s a shame really… instead of crashing their family reunion, I think I’ll fit right in.)
+
+*Fade into outside plan*
+
+Lorelei: "Welcome aboard the Soaring Siren. I will be your air hostess for your journey today. You can call me Lorelei."
+
+Riley: "I'll be here for you as well. Riley Goodshoe, at your service."
+
+Danny: "And I will be your flight attendant. You can call me Dan. May I take your bag, madam?"
+
+Lillian: “Yes, yes. She’s quite a beauty, isn’t she Monty?”
+♧ Is she referring to the plane? Wasn't calling it a she more the Captain's thing...
+
+Lilian: “I really do think we should invest in a private jet of our own someday.”
+
+Monty: “Perhaps… Though, then we’d have to hire our own flight crew and pilot.
+Seems like a bit of a hassle, don’t you think? I barely have the time for it these days.” 
+
+Lilian: “What about you, Goldeen? Have you two considered investing in a jet?”
+
+Goldeen: “Well, no. You see, Norman gets quite anxious during flights... it was quite difficult to convince him to go on this trip. So owning a vehicle like this would be a waste.”
+◇ Fixed minor typos, added ellipsis for pacing.
+
+Camilla: “Just checking… this plane does have Wi-Fi, right?”
+
+Goldeen: “Yes, of course, darling. I made sure. Though, I expect that your eyes won’t be glued to that screen for the entire flight. You haven’t seen your aunt and uncle in years, please try to make an effort.”
+
+Camilla: “…”
+
+Goldeen: “See Lilian, she doesn’t stop even if I tell her to.”
+
+Lilian: “You need to be harsher, Goldeen. Observe...”
+◇ Minor punctuation changes for pacing.
+
+*Lilian takes the phone off Camilla*
+
+Camilla: “Hey! Give that back!..."
+◇ !... sells the impact of the give-it-back better than just a dot, maybe.
+
+Lilian: “Not until you’ve chatted with us for a little while. Conversational skills are an important part of being a lawyer, you know.”
+
+Camilla: “…Fine.”
+
+Camilla: “Ben.”
+
+Ben: “Hm?”
+
+Camilla: “Did you bring any games with you? We should play together.”
+
+Ben: “Oh, sure!”
+
+Lilian: “Give me strength…”
+
+Goldeen: “See?”
+
+Lillian: “If that’s how it’s going to be, then there’s not much use in trying. I suppose we should let her do as she wishes, she is an adult now.”
+“But she will soon learn how to act like a lady in the real world, even if you were unable to teach her yourself, Goldeen.”
+◇ Made a comma into a period, probably will fit better in AA text boxes this way.
+
+Goldeen: “Theo, would you take my bag? No offence, but I don’t exactly trust these flight attendants too much.”
+
+Theo: “Of course, ma’am.”
+◇ Comma added because I imagine you'd pause a little in the middle... yes I know, tons of near-pointless minor edits here...
+
+Lilian: “…”
+
+Fade out.
+
+Fade in inside the plane.
+
+~ Rose Guns Days - Cheerful ~
+
+Captain: “Greetings, members of the Baggins family, all. I’m delighted to make your acquaintance.”
+◇ Made it a little more formal.
+
+“My name is Captain Ron Wayne and I will be your pilot for your flight today. 
+We will be travelling to the beautiful country of Zheng Fa.”
+
+“Now, I will be in the cock pit for most of today’s flight. But I will put her… *ahem* I mean, this plane on autopilot when we are comfortably in the air for a while if you want to ask me anything.”
+◇ Wait... do you say put it in autopilot or on autopilot... damn...
+
+Lorelei: “Could everyone please get into their seats and make sure their seatbelts are secured?”
+
+Lorelei: “Perfect. Now, as per procedure, I will demonstrate what we must do in case of an emergency…”
+
+Fade out. 
+
+“Thank you for your patience. And thank you for choosing to travel with us on The Soaring Siren.”
+
+Captain: “This is your captain speaking. We will now be taking off. Please remain in your seats at all times until our attendants inform you that it is safe.”
+
+Fade out.
+
+Fade in a small plane.
+
+*plane taking off sound effects*
+
+*fade out*
+
+*Inside of plane fades in*
+
+~ Rose Guns Days - nitizyounoyugami ~
+
+???: (They should be thanking me really, this trip would be incredibly boring without my intervention.)
+
+???: (But now I just have to wait… For my plan to come into action…)
+
+*Fades into the attendant area*
+
+Lorelei: (My name is Lorelei Firani.)
+
+Lorelei: (Day to day I am a normal flight attendant, carrying out my regular duties, but today is an exception. Where I must forget my responsibilities, and instead act selfishly).
+
+(You see, "Florani" is simply my mother's maiden name. Had she married my father... I would be known as a *Baggins*.)
+
+(I am, in fact, the sole daughter of one Monty Baggins and rightful heir to his estate, unbeknownst to him, of course.)
+◇ Added comma where I thought it fit.
+♧ How old was Lorelei when her father disappeared? This is a critical plot point.
+
+(He only sees me as a mere piece of furniture, though, just like my mother. Something to use, stain, and throw away once you’ve found a replacement.)
+♧ Umineko reference is maybe a little too strong... but I assume you want to keep it.
+
+(So, no, I’m not here for a family reunion, no way. Just looking at that bastard’s face and his bitch wife makes me want to vomit.)
+♧ This is absolutely not AAO-safe... :smil:
+
+~ Rose Guns Days - Traumatic ~
+
+(Monty Baggins abandoned my mother 22 years ago, leaving her as a single mother to raise me.)
+
+(To cope she gave into alcohol, and would often take her anger out on me. It was not the ideal childhood environment, to say the least.)
+
+(At one point, it looked like things were going to be fine. But today... all I have of her is this jewel. I treasure it dearly.)
+
+(I don’t blame her for anything that happened to us. It’s my father, Monty Baggins', fault, for ruining her life.)
+
+(Ever since I became old enough to fully understand the scum that my father is, I’ve had a rage in my heart, one that I couldn’t distract myself from.)
+
+(So I decided on the only logical course of action to relieve my anxiety.)
+♧ Something about this phrasing is sort of odd... keeping it as it is for now.
+
+(Kill Monty Baggins, and if possible, his wife. And get sweet retribution for what he did to me my mother.)
+◇ Feel like Lilian is a secondary target. This will become relevant as the disappearance of Monty's body will cause Lorelei to 'enter safe mode' but be bewildered when Lilian dies either way.
+
+(I wish for nothing less than a perfect cr-
+
+*instant switch to plane interior*
+
+~ Rose Guns Days - Cheerful ~
+
+*music fade out*
+
+Lilian: “Um. excuse me.”
+
+Lorelei: “A-Ah yes? What is it?”
+
+Lillian: “Can I have some peanuts?”
+
+Lorelei: “Sure. You don’t have an allergy, do you?”
+
+Lillian: "No allergy. Go ahead."
+
+Lorelei: (Then I hope you choke on them.)
+
+[Lorelei hands the peanuts to Lilian and switches places.]
+
+Lorelei: (You see, I was already training to be a flight attendant. I’ve always wanted to travel, and so did my mother, but we could never afford to when I was younger.)
+♧ We should not play into Lorelei's mother's profession so soon. Keeping it this way for now, but I am considering the reason Lorelei found the documents that led to her believing her father to be Baggins should be related to her mother's job (calligrapher?), in an unfortunate mixup.
+
+(It was the perfect set-up, all I’d have to do was climb up the ranks until I could be assigned to a private plane such as this. And I succeeded.)
+◇ Added period.
+
+(But now comes the not-so-easy part.)
+◇ Hopefully smoothened out a little, and used a more fitting tense.
+
+(I’d have to kill Monty and his wife somehow in a confined plane such as this… without arousing too much suspicion around myself...)
+♧ Perhaps she should inform the player she already has a trick up her sleeve.
+
+(I am here to fix my life, not ruin it further, after all.)
+♧ Critical plot point: is this true? It does contrast a little the "way to relieve my anxiety" she professes earlier. I assumed her arc involved perhaps not even caring about Danny's bomb threat, as she has nothing to return to and only wishes for her revenge, but eventually growing attached to her own life and finally saving herself and the other passengers. If you intended something different, it would be simple for her to claim the inheritance through DNA testing after Monty's death... except it wouldn't but she doesn't know that. I am biased towards the former character development, though.
+
+(Ideally, I’d want to pin the crime on one of his other family members… or perhaps one of their not-so-loyal servants?)
+(But no matter what, I knew this was not something I could do alone.)
+♧ NOTE: The trick I have in mind, based partly on The Decagon House Murders, she'd use to poison Monty needs neither a scapegoat nor an accomplice. So these lines are technically unnecessary.
+
+(So I took a gamble and tried to enlist the help of one of my fellow flight crew, to enact the murder…)
+(But what ensued after that… was not something I could’ve ever anticipated…)
+[Lorelei will move places again, spectating some of the characters and serving them. She will meet Danny alone and give in to her remorse, confessing to him. But he'll just say "What a coincidence!" and become her accomplice. The poisoning scene will follow, with Lorelei emboldened by Danny's approval.]
+♧ Critical plot point: Notice that there is a direct contradiction between those two thoughts and the square brackets plan. Refer to the previous note as well. I think there has been a misunderstanding in direction wherein I've depicted Lorelei as a much weaker person, and you as a more callous type. We will need to prefer one or the other; I would like to hear what kind of arc or payoff you're planning with a more evil Lorelei than I thought you imagined.
